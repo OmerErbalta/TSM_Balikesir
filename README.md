@@ -14,6 +14,7 @@ Kullanım
 main.py dosyasını çalıştırarak programı başlatın.
 Program, başlangıç noktası ve destinasyonları belirlemek için sizi yönlendirecektir.
 Program, hem kuş uçuşu hem de araba ile en kısa rotayı hesaplayacak ve sonuçları gösterecektir.
+
 Nasıl Çalışır?
 
 Genetik Algoritma: Program, genetik algoritma kullanarak her bir destinasyonun bir listesini oluşturur ve en kısa rotayı bulmak için iteratif olarak geliştirir.
@@ -26,4 +27,4 @@ Sonuçlar:
 Kuş uçuşu en kısa rota: A -> B -> C -> D -> E
 Araç ile en kısa rota: A -> C -> B -> E -> D
 
-![Uploading Ekran Resmi 2024-01-22 03.19.42.png…]()
+![Ekran Resmi 2024-01-22 03 17 38](https://github.com/OmerErbalta/TSM_Balikesir/assets/74858739/8b7982f2-38d1-4d4c-95a6-6b5c174e121e)
