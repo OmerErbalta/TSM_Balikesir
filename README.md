@@ -1,4 +1,4 @@
-# TSM_Balikesir
+![Ekran Resmi 2024-01-22 03 19 20](https://github.com/OmerErbalta/TSM_Balikesir/assets/74858739/0c9e6274-058c-44c9-90cb-8a4e97e6ae42)# TSM_Balikesir
 Travelling Salesman Problem Çözümü
 
 Bu proje, Travelling Salesman problemi için genetik algoritma kullanarak hem kuş uçuşu hem de araba ile en kısa rotayı Balıkesir ili içerisinde hesaplayan bir Python uygulamasını içerir.
@@ -25,3 +25,5 @@ Destinasyonlar: A,B, C, D, E
 Sonuçlar:
 Kuş uçuşu en kısa rota: A -> B -> C -> D -> E
 Araç ile en kısa rota: A -> C -> B -> E -> D
+
+![Uploading Ekran Resmi 2024-01-22 03.19.42.png…]()
